@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Zay3/static/css/main.bc4b9301.css",
+    "main.js": "/Zay3/static/js/main.7782a1ad.js",
+    "static/js/453.9c44b721.chunk.js": "/Zay3/static/js/453.9c44b721.chunk.js",
+    "static/media/shop_07.jpg": "/Zay3/static/media/shop_07.87bc0370fff015c2b074.jpg",
+    "static/media/shop_02.jpg": "/Zay3/static/media/shop_02.f7a05f1097a2eae705fc.jpg",
+    "static/media/Roboto-Thin.ttf": "/Zay3/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/Roboto-Light.ttf": "/Zay3/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/shop_09.jpg": "/Zay3/static/media/shop_09.c808a4dedf63e0f62b59.jpg",
+    "static/media/shop_04.jpg": "/Zay3/static/media/shop_04.ae05a3029e694ea36cec.jpg",
+    "static/media/shop_10.jpg": "/Zay3/static/media/shop_10.bf46b03920aaf5394c19.jpg",
+    "static/media/category_img_03.jpg": "/Zay3/static/media/category_img_03.98bc6cdbeb76b8ecd513.jpg",
+    "static/media/shop_11.jpg": "/Zay3/static/media/shop_11.95c23501ccc88a6b4043.jpg",
+    "static/media/shop_08.jpg": "/Zay3/static/media/shop_08.bad1c467edb237c6eb6d.jpg",
+    "static/media/shop_01.jpg": "/Zay3/static/media/shop_01.6c73de98e7b3c580383c.jpg",
+    "static/media/shop_03.jpg": "/Zay3/static/media/shop_03.1a6c93139e4c411110f0.jpg",
+    "static/media/shop_06.jpg": "/Zay3/static/media/shop_06.2eebddfb3feb0ecb73e4.jpg",
+    "static/media/brand_04.png": "/Zay3/static/media/brand_04.a1bfcc20c9ff44eead67.png",
+    "static/media/shop_05.jpg": "/Zay3/static/media/shop_05.bd294771358348039384.jpg",
+    "static/media/banner_img_03.jpg": "/Zay3/static/media/banner_img_03.0d9ffd328409e57722f8.jpg",
+    "static/media/brand_03.png": "/Zay3/static/media/brand_03.b9ca8fdd2d8254030425.png",
+    "static/media/banner_img_01.jpg": "/Zay3/static/media/banner_img_01.f25fd20aed4ce4dc25ca.jpg",
+    "static/media/category_img_02.jpg": "/Zay3/static/media/category_img_02.5a1a3a0a788ce9754d2d.jpg",
+    "static/media/brand_01.png": "/Zay3/static/media/brand_01.bebaf76752f081edf502.png",
+    "static/media/about-hero.svg": "/Zay3/static/media/about-hero.2f5265cb6ce22d2a8b76feabd91952e7.svg",
+    "static/media/banner_img_02.jpg": "/Zay3/static/media/banner_img_02.83323918e6ff6c004255.jpg",
+    "static/media/category_img_01.jpg": "/Zay3/static/media/category_img_01.70154f79846bd754e4e6.jpg",
+    "static/media/feature_prod_02.jpg": "/Zay3/static/media/feature_prod_02.e49e46bde268ee0f8cec.jpg",
+    "static/media/feature_prod_03.jpg": "/Zay3/static/media/feature_prod_03.88ff81ee1b09b5b31429.jpg",
+    "static/media/feature_prod_01.jpg": "/Zay3/static/media/feature_prod_01.809321771848e1203b0f.jpg",
+    "static/media/brand_02.png": "/Zay3/static/media/brand_02.b8d335a058fde8daa3f8.png",
+    "index.html": "/Zay3/index.html",
+    "main.bc4b9301.css.map": "/Zay3/static/css/main.bc4b9301.css.map",
+    "main.7782a1ad.js.map": "/Zay3/static/js/main.7782a1ad.js.map",
+    "453.9c44b721.chunk.js.map": "/Zay3/static/js/453.9c44b721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4b9301.css",
+    "static/js/main.7782a1ad.js"
+  ]
+}
