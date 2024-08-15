@@ -1,0 +1,83 @@
+.card2{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    border-radius: 15px;
+}
+.img-card2{
+    width: 100%;
+    height: 220px;
+}
+.img-card2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px 15px 0px 0px;
+}
+.content-card2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0px 15px 0px;
+}
+.content-card2 .stars{
+    padding-right: 60px;
+}
+.content-card2 .price{
+    font-size: 20px;
+    color:#bcbcbc;
+    font-weight: 100;
+}
+.text-card2{
+    padding-left: 20px;
+    width: 100%;
+    height: 150px;
+}
+.text-card2 p:nth-child(1){
+    font-size: 23px;
+    font-weight: 400;
+    
+}
+.text-card2 p:nth-child(2){
+    font-size: 18px;
+    font-weight: 100;
+}
+.text-card2 p:nth-child(3){
+    font-size: 18px;
+    color: #bcbcbc;
+}
+@media  all and (max-width:776px ){
+    .card2{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+}
+@media (min-width : 768px)and (max-width :1024px){
+    .card2{
+        width: 230px;
+        height: 450px;
+    }
+    .img-card2{
+        height: 180px;
+    }
+    .content-card2{
+        padding: 10px 0px 10px 0px;
+    }
+    .content-card2 .stars{
+        padding-right: 20px;
+    }
+    .content-card2 .price{
+    font-size: 16px;
+}
+    .text-card2{
+        padding-left: 15px;
+    }
+    .text-card2 p:nth-child(1){
+        font-size: 20px;
+    }
+    .text-card2 p:nth-child(2){
+        font-size: 16px;
+    }
+
+}

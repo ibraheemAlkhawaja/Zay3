@@ -1,0 +1,12 @@
+:root{
+    --color-light : #e9eef5 ;
+    --color-green : #59ab6e ;
+    --color-dark : #212934 ;
+    --color-blue :#212934  ;
+}
+
+.ibraeem-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,106 @@
+.shop{
+    padding-top: 100px;
+    width: 100%;
+    height: 100%;
+}
+.Categories{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: sticky;
+    top: 135px;
+}
+.Categories .dropdown{
+    padding: 43px 0px;
+}
+.dropdown button{
+    width: 150px;
+    background-color: var(--color-green);
+    font-weight: bold;
+    border: none;
+}
+.dropdown button:hover{
+    background-color: var(--color-light);
+    color: var(--color-green);
+
+}
+.dropdown-menu li{
+    cursor: pointer;
+}
+
+
+.Categories-filter{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0px;
+}
+.text-categories-filter{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.text-categories-filter p{
+    padding: 0px 10px;
+    font-size: 20px;
+}
+.text-categories-filter p:hover{
+    color: var(--color-green);
+}
+.select-categories-filter{
+    padding-right: 50px     ;
+}
+.select-categories-filter select{
+    width: 300px;
+    height: 35px;
+    font-weight: bold;
+}
+@media  all and (max-width:776px ){
+    .shop{
+        padding-top: 70px;
+        width: 100%;
+        height: 100%;
+        display: flex;
+    }
+    .shop-categories{
+        display: flex;
+    }
+    .Categories{
+        max-width: 120px;
+        position: sticky;
+        top: 75px;
+    }
+    .Categories h2{
+        font-size: 20px;
+    }
+    .Categories .dropdown{
+        padding: 43px 0px;
+    }
+    .dropdown button{
+        width: 80px;
+        font-size: 12px;
+    }
+    .Categories-filter{
+        height: 60px;
+    }
+    .text-categories-filter{
+        align-items: center;
+    }
+    .text-categories-filter p{
+        padding: 0px 10px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .select-categories-filter{
+        padding-right: 4px     ;
+
+    }
+    .select-categories-filter select{
+        width: 120px;
+        height: 35px;
+        font-size: 10px;
+    }
+}
